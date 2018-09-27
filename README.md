@@ -8,7 +8,7 @@ Jack 的自用输入法词库:
 
 包含香港市常见地铁、公交站名，适用于 Google 拼音输入法 Android 版。
 
-###[计算机相关词汇(./Computer.txt)
+###[计算机相关词汇](./Computer.txt)
 
 包含计算机常见词汇，程序员相关专业词汇，适用于 Google 拼音输入法 Android 版.
 
