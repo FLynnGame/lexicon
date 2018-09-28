@@ -25,7 +25,10 @@ Jack 的自用输入法词库:
 93932 lines
 包含常用的古诗词，需要把拼音完全打出来才行，适用于 Google 拼音输入法 Android 版.
 
+### [成语](./Phrase.txt)
 
+99625 lines
+包含常用的成语，适用于 Google 拼音输入法 Android 版.
   
   
   
